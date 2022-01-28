@@ -1,7 +1,7 @@
 # week10
-# Hanoi Tower Project
+# Tower Project
 
-The projects,tower of Hanoi is a mathematical puzzle where we have three rods and n disks.
+The projects,tower of is a mathematical puzzle where we have three rods and n disks.
 The objective of the puzzle is to move the entire stack to another rod.
 
 ## Steps to Run Project
